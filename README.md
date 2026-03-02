@@ -1,33 +1,37 @@
-## Hi there 👋
+# Selam! Ben Mehmet Arda Özger 👋
 
-I'm **Arda**, a passionate Python Backend Developer currently studying at university. I have experience working with technologies like **FastAPI** and I'm constantly learning and exploring new areas in backend development.
+Modern web teknolojileriyle yaratıcı, performanslı ve kullanıcı odaklı çözümler üreten bir **Full-Stack Developer**'ım. Temiz kod yazmaya, modern tasarımlar oluşturmaya ve mükemmel kullanıcı deneyimi sağlamaya odaklanıyorum.
 
-### 🌱 Currently Learning
-- Advanced concepts in **FastAPI**.
-- **Database management** and optimization.
-- **Microservices** architecture and how to implement it effectively.
+### 🚀 Nelerle Uğraşıyorum?
+- 🌐 **Full-Stack Web Geliştirme:** Next.js ve Node.js ile ölçeklenebilir uygulamalar.
+- 🛍️ **E-ticaret Çözümleri:** Stok yönetiminden ödeme sistemlerine kadar uçtan uca otomasyonlar.
+- 🤖 **Yapay Zeka & Botlar:** Python tabanlı akıllı sistemler.
+- ⚡ **Performans Optimizasyonu:** Hızlı ve SEO dostu modern arayüzler.
 
-### 🔭 I’m currently working on
-- Building RESTful APIs using **FastAPI**.
-- Exploring new Python frameworks and tools that can enhance backend efficiency.
+### 🛠️ Teknolojiler & Araçlar
 
-### 👯 Looking to collaborate on
-- **Open-source** Python backend projects.
-- Exciting ideas involving **web applications** or **API development**.
-- Projects related to **machine learning** integration with FastAPI.
+**Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🤔 Looking for help with
-- Improving my **knowledge** on scalable backend systems.
-- Understanding the best practices in **backend security** and **deployment**.
+**Backend & Database:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-### 💬 Ask me about
-- **Python** and backend development.
-- Working with **FastAPI** and building efficient APIs.
-- How to integrate different backend services.
+**Tools:**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### 📫 How to reach me
-- You can find me on [LinkedIn](https://www.linkedin.com/in/mehmet-arda-%C3%B6zger-629a3732b/) or send me an email at [mehmetardaozger@gmail.com](mailto:mehmetardaozger@gmail.com).
-- Support me on [BuyMeACoffee](https://buymeacoffee.com/arda_ozger) if you'd like to back my work and projects.
 
-### ⚡ Fun fact
-- I love solving complex coding problems and I enjoy learning about different technologies that can enhance developer productivity.
+### 📫 Bana Ulaşın
+- 🌍 Web Sitem: [mehmetardaozger.com](https://www.mehmetardaozger.com/)
+- 💼 LinkedIn: [LinkedIn Profil Linki](https://www.linkedin.com/in/mehmet-arda-%C3%B6zger-629a3732b/)
+- ✉️ Email: mehmetardaozger@gmail.com
+
+---
+*"Crafting creative, performant, and user-focused solutions."*
