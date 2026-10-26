@@ -1,37 +1,42 @@
-# Selam! Ben Mehmet Arda Özger 👋
+<div align="center">
 
-Modern web teknolojileriyle yaratıcı, performanslı ve kullanıcı odaklı çözümler üreten bir **Full-Stack Developer**'ım. Temiz kod yazmaya, modern tasarımlar oluşturmaya ve mükemmel kullanıcı deneyimi sağlamaya odaklanıyorum.
+# Mehmet Arda Özger
 
-### 🚀 Nelerle Uğraşıyorum?
-- 🌐 **Full-Stack Web Geliştirme:** Next.js ve Node.js ile ölçeklenebilir uygulamalar.
-- 🛍️ **E-ticaret Çözümleri:** Stok yönetiminden ödeme sistemlerine kadar uçtan uca otomasyonlar.
-- 🤖 **Yapay Zeka & Botlar:** Python tabanlı akıllı sistemler.
-- ⚡ **Performans Optimizasyonu:** Hızlı ve SEO dostu modern arayüzler.
+I build fast, scalable, and thoughtfully designed products for the web.
 
-### 🛠️ Teknolojiler & Araçlar
+<br>
 
-**Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Database:**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-**Tools:**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://www.mehmetardaozger.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mehmet-arda-%C3%B6zger-629a3732b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mehmetardaozger@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
-### 📫 Bana Ulaşın
-- 🌍 Web Sitem: [mehmetardaozger.com](https://www.mehmetardaozger.com/)
-- 💼 LinkedIn: [LinkedIn Profil Linki](https://www.linkedin.com/in/mehmet-arda-%C3%B6zger-629a3732b/)
-- ✉️ Email: mehmetardaozger@gmail.com
 
----
-*"Crafting creative, performant, and user-focused solutions."*
+
+<br>
+
+### About
+
+Building scalable web applications with **Next.js** and **Node.js**<br>
+Designing end-to-end **e-commerce** systems, from inventory to payments<br>
+Creating **AI-powered** tools and automations with **Python**<br>
+Obsessed with **performance**, clean code, and great user experience
+
+<br>
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,python,postgres,mongodb,prisma,docker,git&theme=dark&perline=11" />
+
+<br><br>
+
+### Activity
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ElessaR-x&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=0071e3&text_color=6e6e73" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElessaR-x&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=6e6e73" />
+
+<br><br>
+
+<sub><i>Crafting creative, performant, and user-focused solutions.</i></sub>
+
+</div>
